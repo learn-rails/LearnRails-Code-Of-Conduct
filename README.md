@@ -4,7 +4,7 @@
 
 slashrocket is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all slashrocket-sponsored spaces, including our [community Slack](https://join.slashrocket.io), [community forum](https://community.slashrocket.io), [open-source projects](https://github.com/slashrocket), and other spaces that slashrocket hosts, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the slashrocket admin team.
+This code of conduct applies to all slashrocket-sponsored spaces, including our [community Slack](https://join.slashrocket.io), [open-source projects](https://github.com/slashrocket), and other spaces that slashrocket hosts, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the slashrocket admin team.
 
 Some slashrocket-sponsored spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
@@ -15,7 +15,7 @@ Harassment includes:
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of ‘dead’ or rejected names
-* Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate
+* Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate
 * Physical contact and simulated physical contact (eg, textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop.
 * Threats of violence
 * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
